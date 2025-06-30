@@ -167,6 +167,7 @@ ul {
   background-color: var(--white-color);
   padding: 20px;
   border-radius: 15px;
+  box-shadow: 5px 5px 3px lightgray;
 }
 .annc-card div:not(:last-child) {
   border-bottom: 1px solid lightgray;
